@@ -1,0 +1,8 @@
+{
+    "title": "Group Regret Per Round",
+    "xlabel": "round",
+    "ylabel": "Regret R(t)",
+    "legend": ["exp1","exp2","exp3"],
+    "yaxis_log_flag": false,
+    "lower_bound_flag": false
+}

@@ -1,0 +1,17 @@
+{
+    "num_of_runs": 10,
+    "save_flag": true,
+    "new_folder_name": "saved_results",
+    "function_to_run": ["MP_RUCB","FYLRUCB","FYLRMED"],
+    "dataset": "Sushi",
+    "T": 30000,
+    "graph": ["complete"],
+    "M": [10],
+    "gamma": [-1],
+    "alpha": [3],
+    "lr_coeff": [2],
+    "RMED_flag": [true],
+    "rec_flag": [true],
+    "average_regret_flag": [false],
+    "single_player_flag": [false]
+}
